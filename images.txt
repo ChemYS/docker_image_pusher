@@ -4,3 +4,4 @@
 #ghcr.io/home-assistant/home-assistant:stable
 #xiaoyaliu/alist:hostmode
 xiaoyaliu/alist:latest
+dannicool/docker-wechatbot-webhook
