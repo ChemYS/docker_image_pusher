@@ -1,5 +1,6 @@
---platform=arm64 irinesistiana/mosdns:latest
---platform=arm64 adguard/adguardhome:latest
---platform=arm64 metacubex/mihomo:latest
-ghcr.io/home-assistant/home-assistant:stable
-xiaoyaliu/alist:hostmode
+#--platform=arm64 irinesistiana/mosdns:latest
+#--platform=arm64 adguard/adguardhome:latest
+#--platform=arm64 metacubex/mihomo:latest
+#ghcr.io/home-assistant/home-assistant:stable
+#xiaoyaliu/alist:hostmode
+xiaoyaliu/alist:latest
